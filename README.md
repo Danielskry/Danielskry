@@ -2,7 +2,7 @@
 
 AI Technology Lead 🤖
 
-Working on **LLMs · developer tooling · AI-native software engineering · AI in products**
+Working on **generative AI · developer tooling · AI-native software engineering · AI in products**
 
 Published research at ACM/IEEE TechDebt and helped thousands of engineers adopt AI.
 
