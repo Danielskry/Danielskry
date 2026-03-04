@@ -1,6 +1,8 @@
 # Hi, I'm Daniel 👋
 
-AI Technology Lead working on LLMs, developer tooling, AI-native software engineering, and AI in products 🤖
+AI Technology Lead 🤖
+
+Working on **LLMs · developer tooling · AI-native software engineering · AI in products**
 
 Published research at ACM/IEEE TechDebt and helped thousands of engineers adopt AI.
 
