@@ -1,1 +1,14 @@
-### Hi there 👋
+# Hi, I'm Daniel 👋
+
+AI Technology Lead working on LLMs, developer tooling, and AI-native software engineering and products 🤖
+
+Published research at ACM/IEEE TechDebt and helped thousands of engineers adopt AI.
+
+Building things. Exploring the future of software development and the cosmos.
+
+I occasionally share thoughts on AI and software engineering on LinkedIn:
+
+<a href="https://www.linkedin.com/in/skryseth/">
+  <img src="https://github.com/user-attachments/assets/3aca6ac5-5037-4de1-86e7-1a68970aebaf" width="15" />
+  linkedin.com/in/skryseth
+</a>
