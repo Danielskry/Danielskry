@@ -4,7 +4,7 @@ AI Technology Lead 🤖
 
 Working on **generative AI · developer tooling · AI-native software engineering · AI in products**
 
-Published research at ACM/IEEE TechDebt and helped thousands of engineers adopt AI.
+Published NLP research at ACM/IEEE TechDebt and helped thousands of engineers adopt AI.
 
 Building things. Exploring the future of software development and the cosmos.
 
