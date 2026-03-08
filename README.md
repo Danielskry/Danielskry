@@ -8,7 +8,7 @@ Published NLP research at ACM/IEEE TechDebt and helped thousands of engineers ad
 
 Building things. Exploring the future of software development and the cosmos.
 
-I occasionally share thoughts on AI and software engineering on LinkedIn:
+I share thoughts on AI and software engineering on LinkedIn:
 
 <strong>
 <a href="https://www.linkedin.com/in/skryseth/">
